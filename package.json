@@ -1,3 +1,4 @@
+
 {
   "name": "mcee77-game-bot",
   "version": "0.1.0",
@@ -19,6 +20,6 @@
     "typecheck": "npm run typecheck -w @mcee77/shared -w @mcee77/db -w @mcee77/bot -w @mcee77/api"
   },
   "engines": {
-    "node": ">=20"
+    "node": "22.x"
   }
 }
